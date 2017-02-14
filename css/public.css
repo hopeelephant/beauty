@@ -33,6 +33,11 @@ img{
 	float: left;
 	margin-right: 28px;
 }
+.yun{
+	width: 100%;
+	height: 21px;
+	background: url(../images/list/list_19.jpg);
+}
 .header-logo a{
 	float: left;
 	line-height: 20px;
@@ -40,7 +45,7 @@ img{
 }
 .header-nav{
 	width: 100%;
-	
+
 	background: #ff7297;
 }
 .header-nav-inner{
@@ -95,7 +100,7 @@ img{
 	background: url(../images/list/list_20.jpg);
 	border-radius: 5px;
 	border: none;
-	margin-right: 11px;	
+	margin-right: 11px;
 }
 @font-face {
 		font-family: 'iconfont';
@@ -169,10 +174,3 @@ img{
 	font-size: 12px;
 	line-height: 50px;
 }
-
-
-
-
-
-
-

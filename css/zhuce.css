@@ -1,0 +1,124 @@
+body{
+	font-size: 12px;
+}
+.height-43{
+	height: 43px;
+}
+.main{
+	width: 960px;
+	margin: 0 auto;
+	background: #fff;
+	margin-top: 70px;
+}
+.main-content{
+	width: 815px;
+	margin: 0 auto;
+}
+.main-content-left label{
+	width: 66px;
+	display: block;
+	text-align: right;
+	float: left;
+	margin-right: 16px;
+}
+
+.main-content-left .xing{
+	font-size: 24px;
+	color: #768263;
+	margin-bottom: 24px;
+	
+}
+.main-content-left .shu{
+	margin-bottom: 20px;
+}
+.main-content .yan{
+	margin-top: 20px;
+}
+.yan .ma{
+	float: left;
+	font-size: 15px;
+	margin-right: 16px;
+}
+.yan .dian{
+	float: left;
+}
+.yan .dian a{
+	color: #87bd34;
+}
+.yan .tu{
+	border: 1px solid #999;
+	margin-top: 5px;
+}
+.yan .tu img{
+	display: block;
+	float: left;
+	margin-right: 0;
+	padding: 2px;
+}
+.main-content .agreen{
+	padding-left: 60px;
+}
+.main-content .agreen p:nth-child(1){
+	line-height: 55px;
+}
+
+.main-content .agreen p:nth-child(2) input{
+	width: 130px;
+	height: 35px;
+	font-size: 16px;
+	font-weight:bold;
+	background: #ff5783;
+	margin-bottom: 32px;
+	border: none;
+	border-radius: 4px;
+	color: #fff;
+}
+
+.main-content-left{
+	float: left;
+}
+
+.main-content-right{
+	float: right;
+	margin-top: 66px;
+}
+.main-content-right .zhi p{
+	line-height: 45px;
+}
+.main-content-right .zhi input{
+	width: 80px;
+	height: 30px;
+	background: #87bd34;
+	border: none;
+	border-radius: 4px;
+	margin-bottom: 65px;
+}
+
+.main-content-right ul li{
+	margin-bottom: 15px;
+	margin-left: 4px;
+}
+.main-content-right ul li img{
+	margin-right: 4px;
+}
+.main-content-right .an{
+	color: #999;
+
+}
+
+.footer{
+	background: none;
+	margin-top: 0;
+	margin-bottom: 100px;
+}
+.footer .pYun{
+	text-align: center;
+	font-size: 12px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,374 @@
+body{
+	font-size: 12px;
+}
+.main{
+	width: 960px;
+	margin: 0 auto;
+	margin-top: 70px;
+	background: #fff;
+}
+.main ul{
+	
+	margin-left: 16px;
+	height: 23px;border-radius: 14px;
+	padding-top: 34px;
+	padding-bottom: 40px;
+}
+.main ul li{
+	text-align: center;
+}
+.main ul .que{
+	float: left;
+	width: 170px;
+	height: 23px;
+	font-size: 12px;
+	line-height: 23px;
+	background-color: #ff6699;
+}
+.main ul .hui{
+	background: #e4e4e4;
+	color: #000;
+}
+.main ul .hui a{
+	color: #000;
+}
+.main ul li:nth-child(2){
+	width: 13px;
+	height: 23px;
+	float: left;
+	background: url(../images/pay/pay_03.jpg);
+}
+.main ul li:nth-child(4),.main ul li:nth-child(6){
+	width: 13px;
+	height: 23px;
+	float: left;
+	background: url(../images/pay/pay_05.jpg);
+}
+.main ul li:first-child{
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+.main ul li:last-child{
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+.main ul li a{
+	color: #fff;
+}
+.main .shou{
+	margin-left: 16px;
+	margin-right: 5px;
+	padding-bottom: 6px;
+	border-bottom: 2px solid #f1f1f1;
+}
+.main .shou a:nth-child(1){
+	float: left;
+	font-weight: bold;
+	font-size: 14px;
+	color: #000;
+}
+.main .shou a:nth-child(2){
+	float: right;
+	font-weight: bold;
+	font-size: 14px;
+	color: #3366cc;
+}
+.main .dizhi{
+	padding-top: 35px;
+	padding-bottom: 26px;
+	margin-left: 94px;
+}
+.main .dizhi input{
+	margin-right: 14px;
+}
+.main .dizhi span:nth-child(2){
+	margin-right: 25px;
+	font-weight: bold;
+}
+.main .dizhi span:nth-child(3){
+	font-weight: bold;
+	color: #808080;
+}
+.main .ji{
+	margin-left: 18px;
+	margin-right: 18px;
+	padding: 10px;
+	border: 1px solid #ffe580;
+	background: #fff5cc;
+}
+.main .ji p{
+	float: left;
+}
+.main .ji em{
+	float: right;
+	color: #3366cc;
+}
+.main .ji img{
+	margin-right: 10px;
+}
+.main .ji p:nth-child(1) img:nth-child(1){
+	float: left;
+	margin-top: -2px;
+}
+.main .ji p:nth-child(2){
+	color: #000;
+} 
+.main .ji p:nth-child(1) img:nth-child(3){
+	float: right;
+	margin-left: 10px;
+	margin-top: 2px;
+}
+.main .qita{
+	margin-left: 125px;
+	line-height: 60px;
+}
+.main .qita a{
+	margin-right: 26px;
+	color: #3366cc;
+}
+.main h2{
+	margin-left: 18px;
+	font-size: 14px;
+	line-height: 50px;
+}
+.main .mages{
+	line-height: 35px;
+	border-bottom: 3px solid #b2d1ff;
+	margin-left: 20px;
+}
+.main .mages span{
+	margin-right: 98px;
+}
+.main .mages input{
+	margin-left: 90px;
+	vertical-align: middle;
+}
+.main .mages span:nth-child(2){
+	margin-right: 255px;
+	
+}
+.main .dian{
+	padding-top: 36px;
+	padding-bottom: 10px;
+	margin-left: 18px;
+}
+.main .dian p{
+	float: left;
+	margin-right: ;
+}
+.main .dian a{
+	color:#3366cc;
+}
+.main .han{
+	margin-left: 18px;
+	margin-right: 18px;
+	padding: 12px 10px;
+	border-top:1px dashed #3366cc;
+	border-bottom:1px dashed #3366cc;
+}
+.main .han .han-l img{
+	float: left;
+	margin-right: 0;
+}
+.main .han .han-l p{
+	float: left;
+	width: 330px;
+} 
+.main .han .han-l p a,
+.main .han .han-l p span,
+.main .han .han-l p img{
+	display: block;
+	line-height: 17px;
+}
+.main .han .han-l p a{
+	color: #3366cc;
+}
+.main .han .han-l p span{
+	color: #808080;
+}
+.main .han .han-l .meinv{
+	margin-right: 8px;
+}
+.main .han .han-l{
+	float: left;
+}
+.main .han .han-r{
+	float: left;
+	padding-top: 19px;
+	padding-bottom: 37px;
+}
+.main .han .han-r span,
+.main .han .han-r p{
+	float: left;
+}
+.main .han .han-r .tian input:nth-child(1),
+.main .han .han-r .tian input:nth-child(3){
+	width: 15px;
+	height: 15px;
+	background: #fff;
+	color: #3366cc;
+	border: 1px solid #3366cc;
+	vertical-align: middle;
+}
+.main .han .han-r .tian input:nth-child(2){
+	width: 30px;
+	height: 18px;
+	border: 1px solid #3366cc;
+	margin-left: 4px;
+	margin-right: 4px;
+	text-align: right;
+	vertical-align: middle;
+	padding-right: 5px;
+}
+
+.main .han .han-r span{
+	margin-right: 77px;
+}
+.main .han .han-r .tian{
+	margin-right: 50px;
+}
+.main .han .han-r p:nth-child(3){
+	width: 140px;
+	height: 24px;
+	line-height: 23px;
+	border: 1px solid #7f9db9;
+	margin-right: 90px;
+}
+.main .han .han-r span:nth-child(4){
+	margin-right: 0;
+	line-height: 24px;
+	color: #ff5500;
+}
+.main .han .han-r p:nth-child(3) em{
+	padding-left: 2px;
+}
+.main .han .han-r p:nth-child(3) img{
+	float: right;
+	margin-top: 2px;
+	margin-right: 2px;
+	
+}
+.main .liuyan{
+	line-height: 20px;
+	margin-left: 18px;
+	
+	background: #f2f7ff;
+	border-bottom: 1px dashed #7f9db9;
+}
+.main .liuyan .liuyan-bai{
+	padding-top: 10px;padding-left: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #fff;
+}
+.main .liuyan input{
+	width: 390px;
+	height: 20px;
+	border: 1px solid #3366cc;
+}
+
+.main .liuyan p:nth-child(4){
+	width: 140px;
+	height: 24px;
+	line-height: 23px;
+	border: 1px solid #7f9db9;
+	margin-right: 82px;
+	background: #fff;
+}
+.main .liuyan p:nth-child(4) em{
+	padding-left: 2px;
+}
+.main .liuyan p:nth-child(4) img{
+	float: right;
+	margin-top: 2px;
+	margin-right: 2px;
+	
+}
+.main .liuyan span,.main .liuyan input,.main .liuyan p{
+	float: left;
+}
+.main .liuyan span:last-child{
+	float: right;
+	margin-right: 32px;
+	color: #ff5500;
+}
+.main .liuyan span:nth-child(3){
+	margin-left: 40px;
+	margin-right: 68px;
+}
+
+.main .liuyan .heji{
+	float: right;
+	margin-right: 18px;
+	padding-right: 13px;
+	line-height: 56px;
+}
+.main .liuyan .heji p span:nth-child(2){
+	font-size: 15px;
+	font-weight: bold;
+	color: #999;
+}
+.main .liuyan .heji p em:nth-child(3){
+	font-size: 15px;
+	font-weight: bold;
+	color: #ff5500;
+}
+.main .nimin{
+	float: right;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-right: 28px;
+	line-height: 18px;
+}
+
+.main .submit{
+	width: 440px;
+	height: 102px;
+	border: 1px solid #fa6801;
+	margin-top: 62px;
+	float: right;
+	margin-right: -66px;
+}
+.main .submit p:nth-child(1),.main .submit p:nth-child(3){
+	padding-left: 300px;
+}
+.main .submit input.peo{
+	width: 70px;
+	border: none;
+	outline: none;
+	padding-left: 10px;
+}
+.main .submit p:nth-child(1){
+	padding-top: 16px;
+	padding-bottom: 16px;
+}
+.main .submit p:nth-child(2){
+	padding-left: 25px;
+	padding-bottom: 12px;
+}
+.main .subIn{
+	margin-top: 166px;
+	float: right;
+	margin-right: -442px;
+
+}
+.main .subIn input{
+	width: 128px;
+	height: 35px;
+	background: #fb8332;
+	color: #fff;
+	font-weight: bold;
+	font-size: 15px;
+	border: 1px solid #fa6801;
+	border-top: none;
+	outline: none;
+}
+
+
+
+
+
+
+
+
+
+

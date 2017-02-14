@@ -1,0 +1,199 @@
+.footer{
+	margin-top: 280px;
+}
+body{
+	font-size: 12px;
+}
+.nav{
+	width: 960px;
+	
+	margin: 0 auto;
+	background: #fff;
+}
+.pink{
+	color: #f93666;
+}
+#box{
+	width: 960px;
+	overflow: hidden;
+	position: relative;
+	
+}
+#pic{
+	width: 3840px;
+	padding-top: 5px;
+	height: 310px;
+	padding-bottom: 5px;
+	
+}
+#pic img{
+	display: block;
+	float: left;
+	width: 950px;
+	height: 310px;
+	margin-right: 0;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#buttons{
+	position: absolute;
+	right:0;
+	bottom: 2px;
+}
+#buttons a{
+	display: block;
+	float: left;
+	width: 22px;		
+	height: 22px;
+	border: 1px solid #adadad;
+	margin-right: 10px;
+	color: #adadad;
+	line-height: 22px;
+	text-align: center;
+}
+#buttons a:last-child{
+	margin-right: 5px;
+}
+#zuoyou a{
+	position: absolute;
+	top:50%;
+	transform: translate(0,-50%);
+	display: block;
+	width: 40px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	font-weight: bolder;
+	background: #000;
+	opacity: 0.4;
+	color:#ccc;
+	font-size: 20px;
+	text-decoration: none;
+}
+#prev{
+	left:0;
+}
+#next{
+	right: 0;
+}
+.red{
+	background: #fff;
+}
+
+.main{
+	width: 960px;
+	margin: 0 auto;
+}
+.main img{
+	margin-right: 0;
+}
+.tong{
+	margin-top: 20px;
+	background: #fff;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+.main .dapei h2{
+	line-height: 45px;
+}
+.daImg .da-center{
+	width: 305px;
+	float: left;
+	margin-right: 2px;
+	position: relative;
+}
+.daImg .da-left{
+	width: 305px;
+	float: left;
+	margin-right: 2px;
+}
+.daImg .da-right{
+	width: 305px;
+	float: left;
+
+}
+.daImg .da-left img{
+	width: 150px;
+	height: 170px;
+}
+
+.daImg .da-center img{
+	width: 305px;
+	height: 343px;
+}
+
+.daImg .da-right img{
+	width: 150px;
+	height: 170px;
+	margin: 1px;
+}
+.daImg .da-left div{
+	width: 150px;
+	height: 170px;
+	margin: 1px;
+	position: relative;
+	float: left;
+}
+.daImg .da-left div p{
+	position: absolute;
+	height: 30px;
+	width: 150px;
+	bottom: 0;
+	background: rgba(255, 255, 255, 0.49);
+	text-align: center;
+	line-height: 30px;
+	color: #ff70a7;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.daImg .da-center .day{
+	width: 305px;
+	height: 60px;
+	background: rgba(255, 255, 255, 0.49);
+	position: absolute;
+	bottom: 0;
+	line-height: 22px;
+}
+.tong{
+	margin-top: 20px;
+	background: #fff;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+.share ul li{
+	float: left;
+	margin-left: 15px;
+	line-height: 60px;
+}
+.share ul li a{
+	color: #5a5a5a;.share-buttom-left{
+		float: left;
+	}
+}
+.share ul li:first-child a{
+	margin-right: 40px;
+}
+.share ul li:last-child{
+	margin-left: 335px;
+}
+.share ul li:first-child a{
+	font-size: 20px;
+	font-weight: bold;
+}
+.share ul li:first-child a span:nth-child(1){
+	color: #666666;
+}
+.share-buttom-left{
+	float: left;
+}
+.share-buttom-right{
+	float: right;
+	
+}
+.share-buttom-right img{
+	width: 160px;
+	height: 160px;
+}
